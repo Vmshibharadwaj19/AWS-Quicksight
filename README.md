@@ -1,5 +1,13 @@
 # Amazon Best Seller Data Visualization Mini Project
 
+**Candidate**: Vamshi Prasad Goteti  
+**Project Title**: Amazon Best Seller Data Visualization with AWS QuickSight  
+**Technology Stack**: Amazon S3, Amazon QuickSight, CSV, manifest.json  
+**Project Owner**: Vamshi Prasad Goteti  
+**Program**: MSc Computing, University of East London  
+**Contact**: vamshibharadwaj19@gmail.com  
+
+
 ## Overview
 
 This mini project involves visualizing data using Amazon QuickSight. The dataset used is the Amazon Best Seller dataset, which includes 1000 rows of real-life sample data. The dataset consists of a CSV file and a `manifest.json` file, which is used by QuickSight to access data from an S3 bucket.
